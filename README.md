@@ -4,7 +4,7 @@
 
 SearchAI Server Status page is an open-source project based on Uptime Kuma.
 
-<a target="_blank" href="https://github.com/SearchAI-Dev/SearchAI-Server-Status-Page"><img src="https://img.shields.io/github/stars/SearchAI-Dev/SearchAI-Server-Status-Page" /></a> <a target="_blank" href="https://github.com/SearchAI-Dev/SearchAI-Server-Status-Page"><img src="https://img.shields.io/github/stars/SearchAI-Dev/SearchAI-Server-Status-Page" /></a>
+<a target="_blank" href="https://github.com/SearchAI-Dev/SearchAI-Server-Status-Page"><img src="https://img.shields.io/github/stars/SearchAI-Dev/SearchAI-Server-Status-Page" /></a> <a target="_blank" href="https://github.com/SearchAI-Dev/SearchAI-Server-Status-Page"><img src="https://img.shields.io/github/last-commit/SearchAI-Dev/SearchAI-Server-Status-Page" /></a>
 
 ## 🥔 Live Demo
 
