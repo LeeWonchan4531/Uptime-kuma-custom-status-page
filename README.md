@@ -19,4 +19,5 @@ SearchAI Server Status page is an open-source project based on Uptime Kuma.
 - Displaying Server Status Summary
 
 ## 🔧 How to Install
-Enter the address of the server status page in the URL variable on the 5th line of Index.php (Ex) https://status.kuma.pet.
+Enter the address of the server status page in the URL variable on the 5th line of Index.php
+(Ex) https://status.kuma.pet.
