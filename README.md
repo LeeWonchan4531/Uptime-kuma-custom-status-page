@@ -1,4 +1,4 @@
-![image](https://github.com/SearchAI-Dev/SearchAI-Server-Status-Page/assets/90542259/6ad30ccd-2acf-45e1-a38c-36374f86414b)
+![image](https://i.ibb.co/6RD422L/image.png)
 
 # SearchAI Status Page
 
