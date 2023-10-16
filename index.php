@@ -156,7 +156,7 @@ function servertitle($svrid, $content) {
 <body>
   <div class="app-container">
     <div class="app-header">
-<a href="https://www.searchai.me/">
+<a href="/">
           <p class="app-name"><img src="<?php echo $URL . padgeconfig($content,'icon');?>"></p>
           <p class="app-name"> <?php echo padgeconfig($content,'title');?></p>
         </a>
