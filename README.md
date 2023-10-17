@@ -27,3 +27,7 @@ Enter the address of the server status page in the URL variable on the 5th line 
 
 For the status page design, "https://codepen.io/aybukeceylan/pen/OJRNbZp" was used.<br>
 Thank you For Aybüke Ceylan❤️
+
+## ETC
+https://velog.io/@leewonchan/Uptime-Kuma-상태페이지-커스텀하기<br>
+This URL above provides access to a development environment. You can learn more about the code by visiting this URL.
